@@ -8,3 +8,4 @@
 ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahin-Roshani)
+![](https://starchart.cc/Shahin-Roshani/CSCNet.svg)
