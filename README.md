@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Shahin-Roshani&style=for-the-badge)
+![](https://img.shields.io/github/downloads/Shahin-Roshani/CSCNet/total.svg)
 ### Research interests:
 
 * High-dimensional survival analysis.
